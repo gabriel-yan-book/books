@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: https://ftp.bmp.ovh/imgs/2019/11/b51bdf3abac73fb0.png
+heroImage: https://ftp.bmp.ovh/imgs/2019/11/8dea885bcee7fb02.png
 heroText: 西阁 - 闫亚兵 - 技术博客
 tagline: 记录工作和学习过程中的笔记
 actionText: 快速了解 →
@@ -11,5 +11,8 @@ features:
 - title: 开发笔记
   details: 前端开发笔记、前端教学笔记、后端java学习笔记。。。等
 - title: 技术博客
-  details: 将深入探讨相关技术，包括行业动态，架构设计，设计模式，框架使用等。
+  details: 前端技术笔记。
 footer: MIT Licensed | Copyright ©WestCourt
+---
+
+# this is my blog

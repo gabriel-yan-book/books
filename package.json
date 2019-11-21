@@ -2,5 +2,9 @@
   "name": "vue_press",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-active-header-links": "^1.2.0",
+    "@vuepress/plugin-back-to-top": "^1.2.0"
+  }
 }
