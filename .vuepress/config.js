@@ -9,8 +9,8 @@ module.exports = {
       { text: '开源项目', 
         ariaLabel: 'Language Menu',
         items: [
-          { text: 'Chinese', link: '/language/chinese/' },
-          { text: 'Japanese', link: '/language/japanese/' }
+          { text: 'koa2+apidoc源码', link: 'https://github.com/xigeOsp/api' },
+          { text: 'koa2+apidoc展示', link: 'http://www.web-yyb.top/api/index.html' }
         ]
       },
       { text: '技术笔记', 

@@ -12,7 +12,6 @@ features:
   details: 前端开发笔记、前端教学笔记、后端java学习笔记。。。等
 - title: 技术博客
   details: 前端技术笔记。
-footer: MIT Licensed | Copyright ©WestCourt
----
+footer: Copyright © 2018-2020 web-yyb.top All Rights Reserved |  晋ICP备18001852号
 
 # this is my blog
