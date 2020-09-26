@@ -1,5 +1,5 @@
 module.exports = {
-  title: '西阁 - 闫亚兵',
+  title: 'Lakers Yan',
   description: 'Just playing around',
   themeConfig: {
     smoothScroll: true,
@@ -23,7 +23,7 @@ module.exports = {
         ]
       },
       { text: '关于我', link: '/about/#联系方式' },
-      { text: '个人博客', link: 'https://google.com',target:'_blank' },
+      { text: '个人博客', link: 'http://www.web-yyb.top:666/',target:'_blank' },
       { text: '查看源码', link: 'https://github.com/gabriel-yan-book/books',target:'_blank' },
     ]
   },

@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: https://ftp.bmp.ovh/imgs/2019/11/8dea885bcee7fb02.png
-heroText: 西阁 - 闫亚兵 - 技术博客
-tagline: 记录工作和学习过程中的笔记
+heroText: Lakers Yan 
+tagline: 一名热爱编程的死忠粉
 actionText: 快速了解 →
 actionLink: /guide/
 features:
