@@ -16,7 +16,17 @@
   dependencies:
     lodash.debounce "^4.0.8"
 
+"@vuepress/plugin-search@^1.8.2":
+  version "1.8.2"
+  resolved "https://registry.nlark.com/@vuepress/plugin-search/download/@vuepress/plugin-search-1.8.2.tgz#74b92f663acf6b4560e15dc0442a84c4e874e206"
+  integrity sha1-dLkvZjrPa0Vg4V3ARCqExOh04gY=
+
 lodash.debounce@^4.0.8:
   version "4.0.8"
   resolved "https://registry.npm.taobao.org/lodash.debounce/download/lodash.debounce-4.0.8.tgz#82d79bff30a67c4005ffd5e2515300ad9ca4d7af"
   integrity sha1-gteb/zCmfEAF/9XiUVMArZyk168=
+
+vuepress-plugin-one-click-copy@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.npm.taobao.org/vuepress-plugin-one-click-copy/download/vuepress-plugin-one-click-copy-1.0.3.tgz#01627d5832849173286630006ac8b8ba041e2322"
+  integrity sha1-AWJ9WDKEkXMoZjAAasi4ugQeIyI=
